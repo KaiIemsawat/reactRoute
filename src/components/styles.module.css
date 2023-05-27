@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    border: 0;
+}
+.mainContainer {
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    background-color: #ddeaea;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input {
+    margin: 10px auto;
+}
